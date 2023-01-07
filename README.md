@@ -3,7 +3,7 @@ Resources and assignments for CS 559 - Machine Learning Fundamentals and Applica
 
 > *"Gaining knowledge, is the first step to wisdom. Sharing it, is the first step to humanity"* -Unknown
 
-**NOTE:** The files shared are for study purpose only. If my work helped you in any way, do cite/add references. Thanks!
+**NOTE:** The files shared are for study purpose only. Plagiarism is a violation and should not be performed. If my work helped you in any way, do cite/add a reference. Thanks and Happy Learning!
 
 ## Topics covered in all the weeks
 - Lecture 1: Mathematics Review for Machine Learning
